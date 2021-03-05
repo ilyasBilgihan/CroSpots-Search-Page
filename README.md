@@ -2,9 +2,8 @@
 UI to Frontend Exercise - One page "Search Result" design.
 
 You can reach the original design page with [this link](https://dribbble.com/shots/3272972 "CroSpots - Search") if you want.
-Note: It is not responsive and I designed it for 1366x768 resolution screens only.
 
-2 March 2021
+Note: It is not responsive and I designed it for 1366x768 resolution screens only.
 
 #### Here, is the Design's Preview
 ![Design's preview](https://cdn.dribbble.com/users/34556/screenshots/3272972/cro-really-final.gif "CroSpots - Search")
@@ -15,6 +14,6 @@ Note: It is not responsive and I designed it for 1366x768 resolution screens onl
 ![Design's preview](https://github.com/ilyasBilgihan/CroSpots-Search-Page/raw/main/frontend2.png "CroSpots - Frontend Preview 2")
 
 
-
+2 March 2021
 
 
